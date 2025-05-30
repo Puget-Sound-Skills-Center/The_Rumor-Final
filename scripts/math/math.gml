@@ -1,9 +1,9 @@
 function bound(_index, _bounds)
 {
-        if(index < bounds[0] or index > bounds[1] + 0.99)
+        if(_index <_bounds[0] or _index >_bounds[1] + 0.99)
         {
-            return bounds[0];
+            return _bounds[0];
          }
        
-         return index;
+         return _index;
 }
