@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_shelf",
+  "%Name":"obj_m_shelf",
   "eventList":[],
   "managed":true,
-  "name":"obj_shelf",
+  "name":"obj_m_shelf",
   "overriddenProperties":[],
   "parent":{
-    "name":"Furniture Background",
-    "path":"folders/Furniture Background.yy",
+    "name":"Objects",
+    "path":"folders/Furniture Background/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,14 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_shelf",
-    "path":"sprites/spr_shelf/spr_shelf.yy",
+    "name":"spr_m_shelf",
+    "path":"sprites/spr_m_shelf/spr_m_shelf.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_shelf",
-    "path":"sprites/spr_shelf/spr_shelf.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
