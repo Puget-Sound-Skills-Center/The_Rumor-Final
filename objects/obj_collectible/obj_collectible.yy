@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_counter",
+  "%Name":"obj_collectible",
   "eventList":[],
   "managed":true,
-  "name":"obj_counter",
+  "name":"obj_collectible",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Furniture Background/Objects.yy",
+    "name":"Items",
+    "path":"folders/Items.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_counter",
-    "path":"sprites/spr_counter/spr_counter.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

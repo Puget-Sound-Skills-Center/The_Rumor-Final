@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_counter",
+  "%Name":"obj_side_shelf_left",
   "eventList":[],
   "managed":true,
-  "name":"obj_counter",
+  "name":"obj_side_shelf_left",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_counter",
-    "path":"sprites/spr_counter/spr_counter.yy",
+    "name":"spr_side_shelf_left",
+    "path":"sprites/spr_side_shelf_left/spr_side_shelf_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,

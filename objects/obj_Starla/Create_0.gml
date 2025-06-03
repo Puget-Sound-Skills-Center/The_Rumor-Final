@@ -15,3 +15,8 @@ move_speed = 6;
 };
 
 set_animation("idling");
+
+inventory = ds_map_create();
+inventory_items = ds_list_create();
+should_show_inventory = false;
+

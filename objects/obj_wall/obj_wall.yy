@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_counter",
+  "%Name":"obj_wall",
   "eventList":[],
   "managed":true,
-  "name":"obj_counter",
+  "name":"obj_wall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_counter",
-    "path":"sprites/spr_counter/spr_counter.yy",
+    "name":"spr_wall",
+    "path":"sprites/spr_wall/spr_wall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
