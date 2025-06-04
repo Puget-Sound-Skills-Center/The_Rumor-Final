@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_cashier",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_cashier",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Furniture Background/Objects.yy",
+    "name":"Cashier File",
+    "path":"folders/Cashier File.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_cashier",
+    "path":"sprites/spr_cashier/spr_cashier.yy",
   },
   "spriteMaskId":null,
   "visible":true,

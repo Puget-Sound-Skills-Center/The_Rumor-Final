@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_board",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_board",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Furniture Background/Objects.yy",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_board",
+    "path":"sprites/spr_board/spr_board.yy",
   },
   "spriteMaskId":null,
   "visible":true,

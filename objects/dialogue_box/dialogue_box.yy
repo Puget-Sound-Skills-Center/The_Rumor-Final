@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
-  "eventList":[],
+  "%Name":"dialogue_box",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"dialogue_box",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Furniture Background/Objects.yy",
+    "name":"Cashier File",
+    "path":"folders/Cashier File.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
