@@ -14,20 +14,3 @@ else if(_xdirection == 1)  set_animation("right");
 else if(_ydirection == 1)  set_animation("up");
 else if(_ydirection == -1) set_animation("down")
 else					  set_animation("idling");
-
-if (self.talking) return;
-
-var _pressed_space = keyboard_check_released(vk_space);
-var _nearby_dialogue = collison_circle(x, y, 40, dialogue_prompt, true, true);
-
-if (nearby_dialogue != noone)
-{
-    with (_nearby_dialogue) { }
-}
-else
-{
-	with (dialogue_prompt)
-	{
-        var  _active = false;
-	}
-}

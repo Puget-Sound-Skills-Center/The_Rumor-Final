@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"dialogue_box",
+  "%Name":"obj_speech_icon",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"dialogue_box",
+  "name":"obj_speech_icon",
   "overriddenProperties":[],
   "parent":{
     "name":"Cashier File",
@@ -29,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_speech_icon",
+    "path":"sprites/spr_speech_icon/spr_speech_icon.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -21,3 +21,10 @@ states = {
 }
 
 state = states.idle;
+
+// Dialogue trigger timer
+dialogue_timer = 90; // 90 frames = ~1.5 seconds (adjust if needed)
+dialogue_shown = false;
+moving = false;
+target_x = 1200; // set this to your bathroom's location
+target_y = 230;

@@ -1,0 +1,1 @@
+global.talked_to_cashier = false;
