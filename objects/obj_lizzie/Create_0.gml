@@ -28,3 +28,5 @@ dialogue_shown = false;
 moving = false;
 target_x = 1200; // set this to your bathroom's location
 target_y = 230;
+
+
