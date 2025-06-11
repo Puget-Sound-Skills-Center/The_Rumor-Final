@@ -8,7 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_1CC92DD3","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_68233152","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_2A0CE03D","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_15729403","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_57481736","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_588FBA30","path":"rooms/rm_game/rm_game.yy",},
@@ -28,6 +27,7 @@
     {"name":"inst_6755F61B","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_5359536A","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_1BE42D91","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_2A0CE03D","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_20508E10","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_5A807102","path":"rooms/rm_game/rm_game.yy",},
   ],
