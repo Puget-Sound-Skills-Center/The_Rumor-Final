@@ -1,1 +1,0 @@
-global.show_controls = false;
