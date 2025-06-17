@@ -47,7 +47,6 @@
     {"name":"obj_t_shelf","order":2,"path":"objects/obj_t_shelf/obj_t_shelf.yy",},
     {"name":"obj_title","order":1,"path":"objects/obj_title/obj_title.yy",},
     {"name":"obj_wall","order":6,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"obj_pause","order":17,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"snd_bkgd","order":1,"path":"sounds/snd_bkgd/snd_bkgd.yy",},
     {"name":"snd_radio","order":2,"path":"sounds/snd_radio/snd_radio.yy",},
